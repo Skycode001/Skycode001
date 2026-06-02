@@ -24,7 +24,7 @@
 ```javascript
 const DATA_ANALYST = {
   role: "Data Analyst | Data scientist",
-  experience: "7+ years",
+  experience: "5+ years",
   python_libraries: [
     "pandas", "matplotlib", "plotly", "seaborn", "numpy",
     "scikit-learn", "fbprophet", "statsmodels", "sqlalchemy",
@@ -32,7 +32,7 @@ const DATA_ANALYST = {
   ],
   sql_databases: ["PostgreSQL", "Clickhouse", "Oracle"],
   bi_tools: ["Tableau", "Datalens", "Grafana", "Redash", "Power BI"],
-  other_skills: ["Excel (Advanced)", "R", "VBA", "BPMN", "Big Data"],
+  other_skills: ["Excel (Advanced + VBA)"],
   motto: "Turn data into decisions!"
 };
 ```
