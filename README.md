@@ -1,20 +1,19 @@
 <!-- Приветственный блок -->
-👋 **Hello there! I'm Victor**
+## 👋 **Hello there! I'm Victor**
 
 <!-- Счетчики -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Skycode001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ВАШ_USERNAME?label=GitHub%20Followers&style=social" alt="GitHub followers" />
   <!-- Значок LinkedIn с вашей реальной ссылкой -->
-  <a href="https://www.linkedin.com/in/victor-borisov/">
+  <!-- <a href="https://www.linkedin.com/in/username/">
   <img src="https://img.shields.io/badge/LinkedIn-Data%20Analyst-blue?style=flat&logo=linkedin" alt="LinkedIn Data Analyst" />
-</a>
+  </a> -->
 </p>
 
----
 
 <!-- Блок с информацией о себе -->
-🌐 **Data Analyst** | **SQL+Python** | **BI** | **DWH** | **Big Data Ops** 📈
+🌐 **Data Analyst** | **SQL+Python** | **Data Ops** 📈
 
 ---
 
