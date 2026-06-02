@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Приветственный блок -->
+👋 **Hello there! I'm Victor**
 
-<!--
-**Skycode001/Skycode001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Счетчики -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ВАШ_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ВАШ_USERNAME?label=GitHub%20Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/LinkedIn-Data%20Analyst-blue?style=flat&logo=linkedin" alt="LinkedIn Data Analyst" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Блок с информацией о себе -->
+🌐 **Data Analyst** | **SQL+Python** | **BI** | **DWH** | **Big Data Ops** 📈
+
+---
+
+<!-- Блок "Tech Stack" в стиле константы -->
+### A little more about me...
+
+```javascript
+const DATA_ANALYST = {
+  role: "Data Analyst | Process Automation Specialist",
+  experience: "7+ years",
+  python_libraries: [
+    "pandas", "matplotlib", "plotly", "seaborn", "numpy",
+    "scikit-learn", "fbprophet", "statsmodels", "sqlalchemy",
+    "psycopg2", "dask", "selenium", "torch", "tensorflow"
+  ],
+  sql_databases: ["PostgreSQL", "Clickhouse", "Oracle"],
+  bi_tools: ["Tableau", "Datalens", "Grafana", "Redash", "Power BI"],
+  other_skills: ["Excel (Advanced)", "R", "VBA", "BPMN", "Big Data"],
+  motto: "Turn data into decisions!"
+};
+```
