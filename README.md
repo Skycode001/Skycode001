@@ -4,7 +4,7 @@
 <!-- Счетчики -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Skycode001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ВАШ_USERNAME?label=GitHub%20Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Skycode001?label=GitHub%20Followers&style=social" alt="GitHub followers" />
   <!-- Значок LinkedIn с вашей реальной ссылкой -->
   <!-- <a href="https://www.linkedin.com/in/username/">
   <img src="https://img.shields.io/badge/LinkedIn-Data%20Analyst-blue?style=flat&logo=linkedin" alt="LinkedIn Data Analyst" />
