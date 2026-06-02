@@ -3,7 +3,7 @@
 
 <!-- Счетчики -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Skycode001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ВАШ_USERNAME?label=GitHub%20Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/LinkedIn-Data%20Analyst-blue?style=flat&logo=linkedin" alt="LinkedIn Data Analyst" />
 </p>
@@ -20,12 +20,12 @@
 
 ```javascript
 const DATA_ANALYST = {
-  role: "Data Analyst | Process Automation Specialist",
+  role: "Data Analyst | Data scientist",
   experience: "7+ years",
   python_libraries: [
     "pandas", "matplotlib", "plotly", "seaborn", "numpy",
     "scikit-learn", "fbprophet", "statsmodels", "sqlalchemy",
-    "psycopg2", "dask", "selenium", "torch", "tensorflow"
+    "psycopg2", "dask", "selenium", "torch", "tensorflow", etc
   ],
   sql_databases: ["PostgreSQL", "Clickhouse", "Oracle"],
   bi_tools: ["Tableau", "Datalens", "Grafana", "Redash", "Power BI"],
