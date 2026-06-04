@@ -21,13 +21,13 @@
 ### A little more about me...
 
 ```javascript
-const DATA_ANALYST = {
-  role: "Data Analyst | Data scientist",
-  experience: "5+ years",
+const DATA_OPS = {
+  role: "Data Analyst | Data Scientist",
+  experience: "6+ years",
   python_libraries: [
     "pandas", "matplotlib", "plotly", "seaborn", "numpy",
     "scikit-learn", "fbprophet", "statsmodels", "sqlalchemy",
-    "psycopg2", "dask", "selenium", "torch", "tensorflow", etc
+    "psycopg2", "dask", "selenium", "torch", "tensorflow", "etc"
   ],
   sql_databases: ["PostgreSQL", "Clickhouse", "Oracle"],
   bi_tools: ["Tableau", "Datalens", "Grafana", "Redash", "Power BI"],
